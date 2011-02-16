@@ -46,12 +46,13 @@ body{
 
 #rays	{ 
 	background: url('rays.png') center center no-repeat;
-	background-size: 2000px 2000px;
+	background-size: 2500px 2500px;
 	position:absolute; 
-	top:-500px; 
-	left:-100px;
-	width: 2000px; 
-	height: 2000px; 
+	top:-50%; 
+	left: -50%;
+	opacity: 0.66;
+	width: 200%; 
+	height: 200%; 
 	-webkit-transform:scale(1) rotate(16.768rad);
 	-moz-transform:scale(1) rotate(16.768rad);
 	-o-transform:scale(1) rotate(16.768rad);
