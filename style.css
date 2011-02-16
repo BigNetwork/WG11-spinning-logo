@@ -46,6 +46,7 @@ body{
 
 #rays	{ 
 	background: url('rays.png') center center no-repeat;
+	-moz-background-size: 2500px 2500px;
 	background-size: 2500px 2500px;
 	position:absolute; 
 	top:-50%; 
